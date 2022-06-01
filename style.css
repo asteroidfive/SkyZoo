@@ -1,4 +1,5 @@
 html {
+    background-image: url(iceberg.png);
     background-image: linear-gradient(90deg, turquoise, ivory);
     font-family: helvetica;
     text-align: center;
