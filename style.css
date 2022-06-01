@@ -18,3 +18,7 @@ html {
     font-family: helvetica;
     }
     
+    img {
+      width: 500px;
+      height: auto;
+      }
